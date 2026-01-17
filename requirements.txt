@@ -1,0 +1,2 @@
+obsws-python==1.6.1
+pyautogui==0.9.54
